@@ -1,0 +1,144 @@
+Questions,Option_1,Option_2,Option_3,Option_4
+QKEY,100260.0,100588.0,100637.0,101224.0
+DEVICE_TYPE_W49,Tablet,Mobile phone,Desktop,
+LANG_W49,English,Spanish,,
+FORM_W49,Form 2,Form 1,,
+SOCMEDIAUSEa_W49,"No, do not use this","Yes, use this",Refused,
+SOCMEDIAUSEb_W49,"No, do not use this","Yes, use this",Refused,
+SOCMEDIAUSEc_W49,"No, do not use this","Yes, use this",Refused,
+SOCMEDIAUSEd_W49,"No, do not use this","Yes, use this",Refused,
+SNSUSER_W49,Does not use social media,Social media user,,
+ELECTFTGSNSINT_W49,I am worn out by how many political posts and discussions I see on social media,I don’t feel strongly about these posts one way or the other,I like seeing lots of political posts and discussions on social media,Refused
+TALKDISASNSINT_W49,Stressful and frustrating,Interesting and informative,Refused,
+TALKCMNSNSINT_W49,You have less in common politically than you thought,You have more in common politically than you thought,Refused,
+SECUR1_W49,About the same,Less secure,More secure,Refused
+PRIVACYNEWS1_W49,Not at all closely,Not too closely,Somewhat closely,Very closely
+HOMEASSIST1_W49,No,Yes,Refused,
+HOMEASSIST2_W49,Not concerned at all,Very concerned,Not too concerned,Somewhat concerned
+HOMEASSIST3_W49,No,"Yes, frequently","Yes, on occasion",Refused
+HOMEASSIST4_W49,Somewhat important,Very important,Not too important,Not important at all
+HOMEASSIST5a_W49,No,Yes,Refused,
+HOMEASSIST5b_W49,No,Yes,Refused,
+HOMEIOT_W49,No,Yes,Refused,
+FITTRACK_W49,"No, do not wear this","Yes, wear this",Refused,
+LOYALTY_W49,"No, do not belong to this","Yes, belong to this",Refused,
+DNATEST_W49,"No, have not used this","Yes, have used this",Refused,
+TRACKCNT_W49,0.0,2.0,1.0,4.0
+TRACKCO1a_W49,Some of it,All or almost all of it,Most of it,Very little of it
+TRACKCO1b_W49,None of it,Very little of it,All or almost all of it,Some of it
+CONCERNCO_W49,Somewhat concerned,Not too concerned,Very concerned,Not at all concerned
+BENEFITCO_W49,Very little,Some,A great deal,Refused
+CONTROLCO_W49,Some control,Very little control,No control,A great deal of control
+UNDERSTANDCO_W49,Very little,Nothing,Some,A great deal
+POSNEGCO_W49,The potential risks of companies collecting data about me outweigh the benefits I get,The benefits I get from companies collecting data about me outweigh the potential risks,Refused,
+ANONYMOUS1CO_W49,"Yes, it is possible","No, it is not possible",Refused,
+TRACKGOV1a_W49,None of it,All or almost all of it,Most of it,Some of it
+TRACKGOV1b_W49,None of it,All or almost all of it,Very little of it,Some of it
+CONCERNGOV_W49,Not too concerned,Not at all concerned,Somewhat concerned,Very concerned
+BENEFITGOV_W49,Very little,Some,A great deal,Refused
+CONTROLGOV_W49,No control,Very little control,Some control,Refused
+UNDERSTANDGOV_W49,Nothing,Very little,Some,A great deal
+POSNEGGOV_W49,The potential risks of the government collecting data about me and others outweigh the benefits it can provide,The benefits the government can provide by collecting data about me and others outweigh the potential risks,Refused,
+ANONYMOUS1GOV_W49,"Yes, it is possible","No, it is not possible",Refused,
+CONCERNGRPa_W49,Not concerned,Concerned a lot,Concerned a little,Refused
+CONCERNGRPb_W49,Concerned a lot,Not concerned,Concerned a little,Refused
+CONCERNGRPc_W49,Concerned a little,Not concerned,Concerned a lot,Refused
+CONCERNGRPd_W49,Not concerned,Concerned a little,Concerned a lot,Refused
+CONCERNGRPe_W49,Not concerned,Concerned a little,Concerned a lot,Refused
+CONCERNGRPf_W49,Concerned a lot,Concerned a little,Not concerned,Refused
+CONTROLGRPa_W49,A lot of control,No control,A little control,Refused
+CONTROLGRPb_W49,A little control,No control,A lot of control,Offline: does not have internet
+CONTROLGRPc_W49,A little control,No control,A lot of control,Refused
+CONTROLGRPd_W49,A lot of control,No control,A little control,Refused
+CONTROLGRPe_W49,A little control,No control,A lot of control,Offline: does not have internet
+CONTROLGRPf_W49,A little control,No control,A lot of control,Refused
+PP1_W49,Less frequently,About once a week,About once a month,Almost daily
+PP2_W49,Never,Sometimes,Always,Often
+PP3_W49,Glance over it without reading it closely,Read it all the way through,Read it part of the way through,Refused
+PP4_W49,Very little,Some,A great deal,Not at all
+PP5a_W49,Somewhat confident,Not too confident,Not confident at all,Very confident
+PP5b_W49,Somewhat confident,Not too confident,Not confident at all,Very confident
+PP5c_W49,Somewhat confident,Not confident at all,Not too confident,Very confident
+PP5d_W49,Somewhat confident,Not confident at all,Not too confident,Refused
+PP5e_W49,Somewhat confident,Not confident at all,Not too confident,Very confident
+PP6a_W49,Somewhat comfortable,Not too comfortable,Not comfortable at all,Very comfortable
+PP6b_W49,Somewhat comfortable,Not too comfortable,Not comfortable at all,Very comfortable
+PP6c_W49,Somewhat comfortable,Not too comfortable,Not comfortable at all,Very comfortable
+PRIVACYREG_W49,Very little,Not at all,Some,A great deal
+GOVREGV1_W49,More regulation,About the same amount,Less regulation,Refused
+GOVREGV2_W49,Better tools for allowing people to control their personal information themselves,Stronger laws governing what companies can and cannot do with people’s personal information,Refused,
+SHARE1_W49,"No, have not done this","Yes, have done this",Refused,
+KNOW1_W49,Not sure,Can track your visits and activity on the site,Can see the content of all the files on the device you are using,Will automatically prompt you to update your web browser software if it is out of date
+KNOW2_W49,Not sure,Allowing companies to purchase advertisements on their platforms,Providing consulting services to corporate clients,Exclusive licensing deals with internet service providers and cellphone manufacturers
+KNOW3_W49,Not sure,Has created a contract between itself and its users about how it will use their data,Will not share its users’ personal information with third parties,Does not retain any personally identifying information about its users
+KNOW4_W49,Not sure,The site has been verified as trustworthy,Information entered into the site is encrypted,Refused
+KNOW5_W49,All of the above,In an email,Not sure,None of the above
+KNOW6_W49,Not sure,WhatsApp and Instagram,Twitter and Instagram,Twitter and Snapchat
+KNOW7_W49,Not sure,Internet service providers should treat all traffic on their networks equally,Social media platforms must give equal visibility to conservative and liberal points of view,The government cannot censor online speech
+KNOW8_W49,Not sure,The group that runs their company’s internal computer network,The websites they visit while in private browsing mode,A coworker who uses the same computer
+KNOW9_W49,All of the above,Picture of captcha,Not sure,Picture of 2-step code
+KNOW10_W49,Not sure,"Sergey Brin, co-founder of Google","Jack Dorsey, co-founder of Twitter","Travis Kalanick, co-founder of Uber"
+TOTALKNOW_W49,1.0,4.0,5.0,0.0
+PWMAN_W49,No,Yes,Refused,
+PWMAN2_W49,Don’t know what that is,Too expensive,Don’t need it,Other reason
+SMARTPHONE_W49,Yes,No,Refused,
+SMARTAPP_W49,Update them yourself as soon as you are notified a new version is available,Set them to update automatically,Update them yourself whenever it’s convenient,Never install app updates
+PUBLICDATA_W49,Keep things about themselves that might be potentially damaging from being searchable online,Discover potentially useful information about others,Refused,
+RTBFa_W49,"No, should not be able to remove this from online searches","Yes, should be able to remove this from online searches",Refused,
+RTBFb_W49,"No, should not be able to remove this from online searches","Yes, should be able to remove this from online searches",Refused,
+RTBFc_W49,"No, should not be able to remove this from online searches","Yes, should be able to remove this from online searches",Refused,
+RTBFd_W49,"Yes, should be able to remove this from online searches","No, should not be able to remove this from online searches",Refused,
+RTDa_W49,"No, should not have  the right to have this deleted","Yes, should have the right to have this deleted",Refused,
+RTDb_W49,"Yes, should have the right to have this deleted","No, should not have  the right to have this deleted",Refused,
+RTDc_W49,"Yes, should have the right to have this deleted","No, should not have  the right to have this deleted",Refused,
+RTDd_W49,"Yes, should have the right to have this deleted","No, should not have  the right to have this deleted",Refused,
+PROFILE1_W49,Nothing at all,A little,A lot,Refused
+PROFILE2_W49,Not sure,Most of them,All of them,Some of them
+PROFILE3_W49,Not sure,"Yes, frequently","Yes, on occasion",No
+PROFILE4_W49,Somewhat,Not too much,A great deal,Not at all
+PROFILE5_W49,Not too well,Not well at all,Somewhat well,Very well
+DATAUSEa_W49,Unacceptable,Acceptable,Not sure,Refused
+DATAUSEb_W49,Unacceptable,Acceptable,Not sure,Refused
+DATAUSEc_W49,Acceptable,Unacceptable,Not sure,Refused
+DATAUSEd_W49,Unacceptable,Not sure,Acceptable,Refused
+DATAUSEe_W49,Unacceptable,Not sure,Acceptable,Refused
+DATAUSEf_W49,Unacceptable,Acceptable,Not sure,Refused
+FACE1_W49,Nothing at all,A little,A lot,Refused
+FACE2a_W49,Not too effective,Very effective,Somewhat effective,Not effective at all
+FACE2b_W49,Not too effective,Somewhat effective,Very effective,Not effective at all
+FACE2c_W49,Somewhat effective,Very effective,Not too effective,Not effective at all
+FACE3a_W49,Not at all,Not too much,A great deal,Somewhat
+FACE3b_W49,Not at all,Not too much,Somewhat,A great deal
+FACE3c_W49,Somewhat,Not too much,Not at all,A great deal
+FACE4a_W49,Acceptable,Unacceptable,Not sure,Refused
+FACE4b_W49,Acceptable,Unacceptable,Not sure,Refused
+FACE4c_W49,Not sure,Unacceptable,Acceptable,Refused
+FACE4d_W49,Not sure,Acceptable,Unacceptable,Refused
+DB1a_W49,No,Yes,Refused,
+DB1b_W49,No,Offline: does not have internet,Yes,Refused
+DB1c_W49,No,Yes,Refused,
+F_METRO,Demographic variable,,,
+F_CREGION,Demographic variable,,,
+F_AGECAT,Demographic variable,,,
+F_SEX,Demographic variable,,,
+F_EDUCCAT,Demographic variable,,,
+F_EDUCCAT2,Demographic variable,,,
+F_HISP,Demographic variable,,,
+F_RACECMB,Demographic variable,,,
+F_RACETHN,Demographic variable,,,
+F_NATIVITY,Demographic variable,,,
+F_CITIZEN,Demographic variable,,,
+F_MARITAL,Demographic variable,,,
+F_RELIG,Demographic variable,,,
+F_BORN,Demographic variable,,,
+F_ATTEND,Demographic variable,,,
+F_PARTY_FINAL,Demographic variable,,,
+F_PARTYLN_FINAL,Demographic variable,,,
+F_PARTYSUM_FINAL,Demographic variable,,,
+F_INCOME,Demographic variable,,,
+F_INCOME_RECODE,Demographic variable,,,
+F_REG,Demographic variable,,,
+F_IDEO,Demographic variable,,,
+F_ACSWEB,Demographic variable,,,
+F_VOLSUM,Demographic variable,,,
+WEIGHT_W49,Demographic variable,,,
